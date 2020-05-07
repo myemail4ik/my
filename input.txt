@@ -1,0 +1,4 @@
+lada,2019,vizhnya,1000
+bmv,2013,black,5000
+bmv,2013,black,5000
+bmv,2013,black,5000
