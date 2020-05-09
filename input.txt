@@ -1,6 +1,0 @@
-lada,2019,vizhnya,1000
-bmv,2013,black,5000
-mursedes,3013,black,5000
-dick,2500,black,15000
-bmv,2013,black,5000
-bmv,2013,black,5000
