@@ -1,0 +1,2 @@
+car      | year | color | price| 
+mursedes | 3013 | black | 5000 | 
